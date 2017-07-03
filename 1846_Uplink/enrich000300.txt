@@ -1,0 +1,101 @@
+SYS	Autor	Titel	ISBN	Auflage	Ort	Verlag	Jahr	Suche	LoC: LCCN	LoC: DDC	GVK: ppn	GVK: DDC	DNB: ppn	DNB: DDC	British Library: UIN (BLL...)	British Library: DDC	Cern: 001	Cern: DDC
+000000299|		Messe- und Ausstellungskalender 1980/81	|	61. Jg.	Frankfurt/M	Mueller	1980	Messe- Ausstellungskalender 1980/81 1980
+000000300|		Messe- und Ausstellungskalender 1980/81	|	61. Jg.	Frankfurt/M	Mueller	1980	Messe- Ausstellungskalender 1980/81 1980
+000000305|		Regelungstechnik. Grundsaetzliche Betrachtungen ueber Regelprobleme und praktische Anwendungen	|		Berlin	AEG	1955	Regelungstechnik Grundsaetzliche Betrachtungen ueber Regelprobleme praktische Anwendungen 1955
+000000306|		Waermetechnische Regler und Regelanlagen	|		Berlin	AEG	1957	Waermetechnische Regler Regelanlagen 1957
+000000310|		Formelgroessen, Einheiten, Tabellen, Schaltzeichen	3870870923|	10. Aufl.	Berlin	Elitera-Verl.	1976	Formelgroessen Einheiten Tabellen Schaltzeichen 1976
+000000311|	Irvine, T. F. jr.	Advances in heat transfer. Vol. 9	|		New York	Academic	1973	Irvine Advances transfer 1973
+000000312|	Young, L.	Advances in microwaves. Vol. 1	|		New York	Academic	1966	Young Advances microwaves 1966
+000000313|	Young, L.	Advances in microwaves. Vol. 2	|		New York	Academic	1967	Young Advances microwaves 1967
+000000314|	Young, L.	Advances in microwaves. Vol. 3	|		New York	Academic	1968	Young Advances microwaves 1968
+000000315|	Young, L.	Advances in microwaves. Vol. 4	|		New York	Academic	1969	Young Advances microwaves 1969
+000000316|	Young, L.	Advances in microwaves. Vol. 5	|		New York	Academic	1970	Young Advances microwaves 1970
+000000317|	Young, L.	Advances in microwaves. Vol. 6	|		New York	Academic	1971	Young Advances microwaves 1971
+000000318|	Young, L.	Advances in microwaves. Vol. 7	|		New York	Academic	1971	Young Advances microwaves 1971
+000000323|		Aluminium - Merkblaetter	|		Duesseldorf	Aluminium-Verl.	1961	Aluminium Merkblaetter 1961
+000000324|	Aglintsev, K. K.	Applied dosimetry	|		London	Iliffe	1965	Aglintsev Applied dosimetry 1965
+000000331|	Anschuetz, H.	Stromrichteranlagen der Starkstromtechnik	|	2., neubearb. Aufl.	Berlin	Springer	1963	Anschuetz Stromrichteranlagen Starkstromtechnik 1963
+000000334|	Vance, R. W.	Applications of cryogenic technology	0872520110|		Los Angeles	Tinnon-Brown	1969	Vance Applications cryogenic technology 1969
+000000335|	Vance, R. W.	Applications of cryogenic technology	0872520269|		Los Angeles	Tinnon-Brown	1970	Vance Applications cryogenic technology 1970
+000000336|	Carr, R. H.	Applications of cryogenic technology	|		Canoga Park	Xyzyx Inf. Corp	1971	Carr Applications cryogenic technology 1971
+000000337|	Vance, R. W.	Applications of cryogenic technology	|		Canoga Park	Xyzyx Inf. Corp	1972	Vance Applications cryogenic technology 1972
+000000338|	Carr, R. H.	Application of cryogenics technology	0879360011|		Whitestone	Scholium International	1973	Carr Application cryogenics technology 1973
+000000345|	Attix, F. H.	Radiation dosimetry	|	2nd ed.	New York	Academic	1968	Attix Radiation dosimetry 1968
+000000346|	Attix, F. H.	Radiation dosimetry.	|	2nd ed.	New York	Academic	1966	Attix Radiation dosimetry 1966
+000000347|	Attix, F. H.	Radiation dosimetry	|	2nd ed.	New York	Academic	1969	Attix Radiation dosimetry 1969
+000000348|	Van Atta, C. M.	Vacuum science and engineering	|		New York	McGraw-Hill	1965	Van Atta Vacuum science engineering 1965
+000000349|	Attix, F. H.	Topics in radiation dosimetry	|		New York	Academic	1972	Attix Topics radiation dosimetry 1972
+000000350|	Cartellieri, Wolfgang	Atom-Reaktoren, -Energie, -Forschung in Deutschland	|		Spendlingen	Conte	1966	Cartellieri Atom-Reaktoren -Energie -Forschung Deutschland 1966
+000000357|	Arkadev, A. G.	Teaching computers to recognize patterns	|		London	Academic	1967	Arkadev Teaching computers recognize patterns 1967
+000000359|	Auwaerter, Max	Ergebnisse der Hochvakuumtechnik und der Physik duenner Schichten	|		Stuttgart	Wiss. Verl.-Ges.	1957	Auwaerter Ergebnisse Hochvakuumtechnik Physik duenner Schichten 1957
+000000360|	Auwaerter, Max	Ergebnisse der Hochvakuumtechnik und der Physik duenner Schichten	3804704166|		Stuttgart	Wiss. Verl.-Ges.	1971	Auwaerter Ergebnisse Hochvakuumtechnik Physik duenner Schichten 1971
+000000369|	Hoppner, Albert	Handbuch fuer Planung, Konstruktion und Montage von Schaltanlagen	|	3., neubearb. Aufl.	Essen	Girardet	1964	Hoppner Handbuch Planung Konstruktion Montage Schaltanlagen 1964
+000000370|	Guthmann, Otto	Handbuch fuer Schaltanlagen	3773608071|	5., neubearb. Aufl.	Essen	Girardet	1975	Guthmann Handbuch Schaltanlagen 1975
+000000371|	Olenik, Heinz	Handbuch fuer Explosionsschutz	3773608756|		Essen	Girardet	1971	Olenik Handbuch Explosionsschutz 1971
+000000378|	Altman, Jerome L.	Microwave circuits	|		Princeton	Van Nostrand	1964	Altman Microwave circuits 1964
+000000379|	Alley, Charles L.	Electronic engineering	|		New York	Wiley	1962	Alley Electronic engineering 1962
+000000385|	Bartl, Walter	Impulse in der Grenzphysik	370290090X|		Wien	Oldenbourg	1976	Bartl Impulse Grenzphysik 1976
+000000387|	Bailey, C. A.	Advanced cryogenics	0306304589|		London	Plenum	1971	Bailey Advanced cryogenics 1971
+000000388|	Benson, F. A.	Problems in electronics with solutions	|		London	Spon	1958	Benson Problems electronics solutions 1958
+000000389|	Bennett, William R.	Data transmission	|		New York	McGraw-Hill	1965	Bennett transmission 1965
+000000390|	Baranowski, J.	Transistorschaltungen in der Impulstechnik	|		Berlin	Verl. Technik	1966	Baranowski Transistorschaltungen Impulstechnik 1966
+000000391|	Benedikt, Hans	Uebungsaufgaben zum Grundkurs der Messtechnik	|		Muenchen	Oldenbourg	1968	Benedikt Uebungsaufgaben Grundkurs Messtechnik 1968
+000000393|	Bellman, Richard	Adaptive control processes	|		Princeton	Princeton Univ. Pr.	1961	Bellman Adaptive control processes 1961
+000000394|	Bell, D. A.	Electrical noise	|		London	Van Nostrand	1960	Bell Electrical noise 1960
+000000398|	Becker, Klaus	Filmdosimetrie	|		Berlin	Springer	1962	Becker Filmdosimetrie 1962
+000000399|	Barna, Arpad	High-speed pulse circuits	0471050334|		New York	Wiley-Interscience	1970	Barna High-speed pulse circuits 1970
+000000401|	Bibergal', A. V.	Gamma irradiation facilities	|		Jerusalem	Isr. Progr. Sci. Transl	1965	Bibergal' Gamma irradiation facilities 1965
+000000403|	Bienert, Horst	Einfuehrung in den Entwurf und die Berechnung von Kippschaltungen	|		Heidelberg	Huethig	1970	Bienert Einfuehrung Entwurf Berechnung Kippschaltungen 1970
+000000404|	Bitterlich, Wolfram	Einfuehrung in die Elektronik	|		Wien	Springer	1967	Bitterlich Einfuehrung Elektronik 1967
+000000405|	Blackburn, John F.	Components handbook	|		New York	McGraw-Hill	1949	Blackburn Components handbook 1949
+000000406|	Blackman, R. B.	The measurement of power spectra	|		New York	Dover	1959	Blackman measurement power spectra 1959
+000000407|	Blake, Lamont V.	Transmission lines and waveguides	0471079294|		New York	Wiley	1969	Blake Transmission lines waveguides 1969
+000000408|	Bleisteiner, Georg	Handbuch der Regelungstechnik	|		Berlin	Springer	1961	Bleisteiner Handbuch Regelungstechnik 1961
+000000409|	Blatz, Hanson	Radiation hygiene handbook	|		New York	McGraw-Hill	1959	Blatz Radiation hygiene handbook 1959
+000000412|	Bevensee, R. M.	Electromagnetic slow wave systems	|		New York	Wiley	1964	Bevensee Electromagnetic systems 1964
+000000419|	Aurand, Karl	Die natuerliche Strahlenexposition des Menschen	3135172015|		Stuttgart	Thieme	1974	Aurand natuerliche Strahlenexposition Menschen 1974
+000000420|	Yamaguchi, Chiri	Dosimetry in mixed radiation fields	|		Tsukuba	KEK	1979	Yamaguchi Dosimetry mixed radiation fields 1979
+000000425|		An interface system for programmable measuring instruments (byte serial, bit parallel)	|		Geneva	Bureau Central de la CEI	1979	interface system programmable measuring instruments serial parallel 1979
+000000428|	Barkhausen, H.	Lehrbuch der Elektronenroehren und ihrer technischen Anwendungen	|	8., neubearb. Aufl.	Leipzig	Hirzel	1958	Barkhausen Lehrbuch Elektronenroehren ihrer technischen Anwendungen 1958
+000000429|	Barkhausen, H.	Lehrbuch der Elektronenroehren und ihrer technischen Anwendungen	|	6., neubearb. Aufl.	Leipzig	Hirzel	1954	Barkhausen Lehrbuch Elektronenroehren ihrer technischen Anwendungen 1954
+000000430|	Barkhausen, H.	Lehrbuch der Elektronenroehren und ihrer technischen Anwendungen	|	7. Aufl.	Leipzig	Hirzel	1954	Barkhausen Lehrbuch Elektronenroehren ihrer technischen Anwendungen 1954
+000000431|	Barkhausen, H.	Lehrbuch der Elektronen-Roehren und ihrer technischen Anwendungen	|	7. Aufl.	Leipzig	Hirzel	1955	Barkhausen Lehrbuch Elektronen-Roehren ihrer technischen Anwendungen 1955
+000000433|	Borgnis, Fritz E.	Randwertprobleme der Mikrowellenphysik	|		Berlin	Springer	1955	Borgnis Randwertprobleme Mikrowellenphysik 1955
+000000438|	Boedefeld, Theodor	Elektrische Maschinen	|	7. Aufl.	Wien	Springer	1965	Boedefeld Elektrische Maschinen 1965
+000000439|	Blitzer, Richard	Basic pulse circuits	|		New York	McGraw-Hill	1964	Blitzer Basic pulse circuits 1964
+000000441|	Bleuler, E.	Methods of experimental physics	|		New York	Academic	1964	Bleuler Methods experimental physics 1964
+000000442|	Bode, Hendrik W.	Network analysis and feedback amplifier design	|	12th ed.	Princeton	Van Nostrand	1957	Bode Network analysis feedback amplifier design 1957
+000000444|	Boehler, Gerd	Elementare Uebungen zur Kernstrahlenmessung	|		Muenchen	Thiemig	1962	Boehler Elementare Uebungen Kernstrahlenmessung 1962
+000000445|		Umweltradioaktivitaet und Strahlenbelastung: 4. Vierteljahr 1967	|		Muenchen	Gersbach	1968	Umweltradioaktivitaet Strahlenbelastung: Vierteljahr 1968
+000000446|		Umweltradioaktivitaet und Strahlenbelastung	|		Muenchen	Gersbach	1969	Umweltradioaktivitaet Strahlenbelastung 1969
+000000447|		Empfehlungen der internationalen Kommission fuer Strahlenschutz	|		Muenchen	Gersbach	1966	Empfehlungen internationalen Kommission Strahlenschutz 1966
+000000448|	Holthusen, H.	Die genetische Belastung der Bevoelkerung einer Grossstadt (Hamburg) durch medizinische Strahlenanwendung	|		Muenchen	Gersbach	1961	Holthusen genetische Belastung Bevoelkerung einer Grossstadt Hamburg durch medizinische Strahlenanwendung 1961
+000000449|		Empfehlungen der internationalen Kommission fuer Strahlenschutz	|		Muenchen	Gersbach	1960	Empfehlungen internationalen Kommission Strahlenschutz 1960
+000000450|		Strahlenbelastung des Menschen	|		Muenchen	Gersbach	1960	Strahlenbelastung Menschen 1960
+000000451|	Hinzpeter, M.	Atomtechnisches Aerosol und atmosphaerische Radioaktivitaet	|		Braunschweig	Gersbach	1959	Hinzpeter Atomtechnisches Aerosol atmosphaerische Radioaktivitaet 1959
+000000452|		Strahlenwirkung auf menschliche Erbanlagen	|		Braunschweig	Gersbach	1958	Strahlenwirkung menschliche Erbanlagen 1958
+000000453|		Deutsche Atomkommission	|		Braunschweig	Gersbach	1958	Deutsche Atomkommission 1958
+000000454|	Brix, Joseph	Die Wasserversorgung	|	6., erw., neu bearb. Aufl.	Muenchen	Oldenbourg	1963	Brix Wasserversorgung 1963
+000000455|	Breitenbruch, Eduard	Transformatoren kleiner Leistung	|		Prien	Winter	1960	Breitenbruch Transformatoren kleiner Leistung 1960
+000000458|	Bowen, J. H.	Steuerung und Instrumentierung von Reaktoren	|		Braunschweig	Vieweg	1961	Bowen Steuerung Instrumentierung Reaktoren 1961
+000000459|	Bosse, Georg	Grundlagen der Elektrotechnik	|		Mannheim	Bibliograph. Inst.	1966	Bosse Grundlagen Elektrotechnik 1966
+000000461|	Bosnjakovic, F.	Technische Thermodynamik	|	3., ueberarb. Aufl.	Dresden	Steinkopff	1960	Bosnjakovic Technische Thermodynamik 1960
+000000466|		Anwendung der Isotope in der Technik	|		Muenchen	Gersbach	1960	Anwendung Isotope Technik 1960
+000000467|	Brobeck, W. M.	Particle accelerator safety manual	|		Rockville	US Dept. of Health, Education, and Welfare	1968	Brobeck Particle accelerator safety manual 1968
+000000468|	Broda, Engelbert	Die technischen Anwendungen der Radioaktivitaet	|	3., verb. u. erw. Aufl.	Leipzig	Dt. Verl. f. Grundstoffindustrie	1962	Broda technischen Anwendungen Radioaktivitaet 1962
+000000469|	Brophy, James J.	Basic electronics for scientists	|		New York	McGraw-Hill	1966	Brophy Basic electronics scientists 1966
+000000470|	Brown, J.	Electromagnetic wave theory	|	1st ed.	Oxford	Pergamon	1967	Brown Electromagnetic theory 1967
+000000471|	Brown, J.	Electromagnetic wave theory	|	1st ed.	Oxford	Pergamon	1967	Brown Electromagnetic theory 1967
+000000477|	Brunner, W. F.	Practical vacuum techniques	|		New York	Reinhold	1965	Brunner Practical vacuum techniques 1965
+000000480|	Buchhold	Elektrische Kraftwerke und Netze	|	3., neubearb. Aufl.	Berlin	Springer	1956	Buchhold Elektrische Kraftwerke Netze 1956
+000000483|	Flaemig, E.	Nuclear electronics - Kernelektronik	|		Rossendorf	ZfK	1980	Flaemig Nuclear electronics Kernelektronik 1980
+000000484|	Strohmaier, B.	Evaluation of the cross-sections for the reactions F-19(n, 2n)F-18, P-31(n, p)Si-31, Nb-93(n, n')Nb-93m and Rh-103(n,n')Rh-103m	|		Karlsruhe	FIZ	1980	Strohmaier Evaluation cross-sections reactions F-19n 2nF-18 P-31n pSi-31 Nb-93n n'Nb-93m Rh-103nn'Rh-103m 1980
+000000488|		Blitzschutz und allgemeine Blitzschutz-Bestimmungen	|	8. Aufl.	Berlin	VDE-Verl.	1971	Blitzschutz allgemeine Blitzschutz-Bestimmungen 1971
+000000490|	Buehler, Hansruedi	Einfuehrung in die Schaltalgebra	|		Basel	Birkhaeuser	1967	Buehler Einfuehrung Schaltalgebra 1967
+000000492|		Energiequellen fuer morgen?	|		Frankfurt	Umschau-Verl.	1976	Energiequellen morgen? 1976
+000000493|		Energiequellen fuer morgen?	|		Frankfurt	Umschau-Verl.	1976	Energiequellen morgen? 1976
+000000495|		Energiequellen fuer morgen?	|		Frankfurt	Umschau-Verl.	1976	Energiequellen morgen? 1976
+000000496|		Energiequellen fuer morgen?	|		Frankfurt	Umschau-Verl.	1976	Energiequellen morgen? 1976
+000000497|		Energiequellen fuer morgen?	|		Frankfurt	Umschau-Verl.	1976	Energiequellen morgen? 1976
+000000498|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000499|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980

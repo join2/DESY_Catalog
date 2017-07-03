@@ -1,0 +1,101 @@
+SYS	Autor	Titel	ISBN	Auflage	Ort	Verlag	Jahr	Suche	LoC: LCCN	LoC: DDC	GVK: ppn	GVK: DDC	DNB: ppn	DNB: DDC	British Library: UIN (BLL...)	British Library: DDC	Cern: 001	Cern: DDC
+000000500|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000501|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000502|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000503|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000504|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000505|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000506|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000507|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000508|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000509|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000510|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000511|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000512|	Miyake, Saburo	Cosmic ray	|		Tokyo	Univ., Inst. Cosmic Ray Res	1980	Miyake Cosmic 1980
+000000516|	Mosher, Anne	Quantum chromodynamics	|		Stanford	SLAC	1980	Mosher Quantum chromodynamics 1980
+000000525|	Girard, Denis	Cassell's French-English English-French dictionary	0525226110|	8th, rev. ed.	London	Cassell	1977	Girard Cassell's French-English English-French dictionary 1977
+000000527|	Amaldi, U.	Possibilities and limitations of accelerators and detectors	|		Geneva	CERN	1980	Amaldi Possibilities limitations accelerators detectors 1980
+000000528|	Casalbuoni, Roberto	Current problems in particle theory	|		Baltimore	Johns Hopkins Univ.	1980	Casalbuoni Current problems particle theory 1980
+000000529|	Butkovskiy, A. G.	Distributed control systems	|		New York	American Elsevier	1969	Butkovskiy Distributed control systems 1969
+000000532|		Kernenergie	3881350098|	2. Aufl.	Bonn	BMFT	1976	Kernenergie 1976
+000000536|	Wilkinson, Denys	Heavy ion interactions at high energies	0080250394|		Oxford	Pergamon	1980	Wilkinson Heavy interactions energies 1980
+000000538|	Riazuddin	Physics and contemporary needs	0306402823|		New York	Plenum	1979	Riazuddin Physics contemporary needs 1979
+000000540|	Weisskopf, Victor F.	Natur im Schaffen	3550076916|		Frankfurt	Ullstein	1980	Weisskopf Natur Schaffen 1980
+000000541|	Greiner, Walter	Ist das Vakuum wirklich leer?	3515031737|		Wiesbaden	Steiner	1980	Greiner Vakuum wirklich leer? 1980
+000000543|	Litt, John	Nimrod, the 7 GeV proton synchroton	|		Chilton	Rutherford Lab.	1979	Litt Nimrod proton synchroton 1979
+000000546|	Caldwell, William I.	Frequency response for process control	|		New York	McGraw-Hill	1959	Caldwell Frequency response process control 1959
+000000548|	Cameron, John R.	Thermoluminescent dosimetry	|	1st ed.	Madison	Wisconsin Univ.	1968	Cameron Thermoluminescent dosimetry 1968
+000000550|	Cannon, Robert H.	Dynamics of physical systems	|		New York	McGraw-Hill	1967	Cannon Dynamics physical systems 1967
+000000551|	Carr, William N.	MOS-LSI design and application	|		New York	McGraw-Hill	1972	Carr MOS-LSI design application 1972
+000000552|	Carroll, J. M.	Tunnel-diode and semiconductor circuits	|		New York	McGraw-Hill	1963	Carroll Tunnel-diode semiconductor circuits 1963
+000000553|	Carrol, John M.	Design manual for transistor circuits	|		New York	McGraw-Hill	1961	Carrol Design manual transistor circuits 1961
+000000555|	Carter, Harley	Photoelektronische Bauelemente	|		Hamburg	Philips	1964	Carter Photoelektronische Bauelemente 1964
+000000556|	Cassignol, E. J.	Halbleiter	|		Berlin	Philips	1966	Cassignol Halbleiter 1966
+000000558|	Chance, Britton	Electronic time measurements	|		New York	McGraw-Hill	1949	Chance Electronic measurements 1949
+000000559|		Chemische und bakteriologische (biologische) Waffen und die Wirkungen ihrer moeglichen Anwendung	3877484560|		Bonn	Siegler	1970	Chemische bakteriologische biologische Waffen Wirkungen ihrer moeglichen Anwendung 1970
+000000560|	Chen, Chih-Fan	Elements of control systems analysis	|		Englewood Cliffs	Prentice-Hall	1968	Chen Elements control systems analysis 1968
+000000561|	Cherepnin, N. V.	Treatment of materials for use in high vacuum	|		Holon	Ordentlich Verl.	1976	Cherepnin Treatment materials vacuum 1976
+000000562|	Chestnut, Harold	Servomechanisms and regulating system design	|	2nd ed.	New York	Wiley	1959	Chestnut Servomechanisms regulating system design 1959
+000000563|	Childs, James J.	Principles of numerical control	|		New York	Industrial Pr.	1965	Childs Principles numerical control 1965
+000000565|	Chmelka, Fritz	Einfuehrung in die Statik	|	3., unveraend. Aufl.	Wien	Springer	1944	Chmelka Einfuehrung Statik 1944
+000000566|	Chodorow, Marvin	Fundamentals of microwave electronics	|		New York	McGraw-Hill	1964	Chodorow Fundamentals microwave electronics 1964
+000000567|	Chow, Woo F.	Principles of tunnel diode circuits	|		New York	Wiley	1964	Chow Principles tunnel diode circuits 1964
+000000568|	Christian, Erich	Filter design tables and graphs	|		New York	Wiley	1966	Christian Filter design tables graphs 1966
+000000569|	Clarricoats, P. J. B.	Microwave ferrites	|	1st publ.	London	Chapman & Hall	1961	Clarricoats Microwave ferrites 1961
+000000570|	Clayton, R. F.	Monitoring of radioactive contamination on surfaces	|		Vienna	IAEA	1970	Clayton Monitoring radioactive contamination surfaces 1970
+000000572|	Schewe, Phillip	Physics news in 1979	|		New York	AIP	1979	Schewe Physics 1979
+000000576|	Beggerow, G.	Numerical data and functional relationships in science and technology	3540093702|		Berlin	Springer	1980	Beggerow Numerical functional relationships science technology 1980
+000000577|	Ivanov, I. N.	Problems of charged particle accelerators	|		Dubna	JINR	1980	Ivanov Problems charged particle accelerators 1980
+000000578|	Collin, Robert E.	Foundations for microwave engineering	|		New York	McGraw-Hill	1966	Collin Foundations microwave engineering 1966
+000000579|		Nuclear instrumentation	|		Paris	CEA	1966	Nuclear instrumentation 1966
+000000580|	Beckmann, M.	Computing methods in optimization problems	|		Berlin	Springer	1969	Beckmann Computing methods optimization problems 1969
+000000582|	Conrad, Paul	Superconducting materials	|		Park Ridge	Noyes Data Corp	1970	Conrad Superconducting materials 1970
+000000583|	Coombs, C. F.	Printed circuits handbook	|		New York	McGraw-Hill	1967	Coombs Printed circuits handbook 1967
+000000584|	Craggs, J. D.	High voltage laboratory technique	|		London	Butterworths	1954	Craggs voltage laboratory technique 1954
+000000585|	Croft, A. J.	Cryogenic laboratory equipment	|		New York	Plenum	1970	Croft Cryogenic laboratory equipment 1970
+000000590|	Daglish, H. N.	Low-noise microwave amplifiers	|		Cambridge	Cambridge Univ. Pr.	1968	Daglish Low-noise microwave amplifiers 1968
+000000592|	Witkover, Richard L.	Linear accelerator	|		Upton	BNL	1979	Witkover Linear accelerator 1979
+000000593|	Myers, William D.	Nuclear dynamics	|		Berkeley	LBL	1980	Myers Nuclear dynamics 1980
+000000595|	Treusch, Joachim	Festkoerperprobleme - Advances in solid state physics	0430339350|		Braunschweig	Vieweg	1980	Treusch Festkoerperprobleme Advances solid state physics 1980
+000000597|	Castel, Boris	Common problems in low- and medium-energy nuclear physics	|		New York	Plenum	1979	Castel Common problems medium-energy nuclear physics 1979
+000000604|	Allred, John C.	Program options in intermediate-energy physics	|		Los Alamos	Los Alamos Sci. Lab.	1980	Allred Program options intermediate-energy physics 1980
+000000605|	Brown, G. E.	Program options in intermediate-energy physics	|		Los Alamos	Los Alamos Sci. Lab.	1980	Brown Program options intermediate-energy physics 1980
+000000606|	Jacob, M.	Program options in intermediate-energy physics	|		Los Alamos	Los Alamos Sci. Lab.	1980	Jacob Program options intermediate-energy physics 1980
+000000609|	Learned, J. G.	Deep Underwater Muon and Neutrino Detector	|	1st publ.	Honolulu	Hawaii Univ., DUMAND Cent.	1980	Learned Underwater Neutrino Detector 1980
+000000611|	Lanius, Karl	Elementarteilchen 1977	|		Berlin	Akademie-Verl.	1978	Lanius Elementarteilchen 1978
+000000613|	Mustroph, Wilfried	Forschungsbericht 1976-1978	|		Hamburg	Univ. Hamburg	1980	Mustroph Forschungsbericht 1976-1978 1980
+000000614|	Braker, W.	Mastheson gas data book	|	5th ed.	East Rutherford	Matheson Gas Products	1971	Braker Mastheson 1971
+000000615|	Subarew, D. N.	Statistische Thermodynamik des Nichtgleichgewichts	|		Berlin	Akademie-Verl.	1976	Subarew Statistische Thermodynamik Nichtgleichgewichts 1976
+000000618|		Computing in high energy and nuclear physics	|		Leuven	Sintal	1980	Computing energy nuclear physics 1980
+000000619|	Takagi, Akira	The acceleration of polarized beams	|		Tsukuba	KEK	1980	Takagi acceleration polarized beams 1980
+000000620|	Lacour, H.	Elektronische Bauelemente 2	3408535248|		Stuttgart	Berliner Union	1980	Lacour Elektronische Bauelemente 1980
+000000621|	Duff, B. G.	Proceedings, school for young high energy physicists, Chilton, Abingdon, UK, September 10-27, 1979	|		Chilton	Rutherford Lab.	1979	Duff Proceedings school young energy physicists Chilton Abingdon September 10-27 1979
+000000629|	Ehrenreich, Henry	Solid state physics	0126077355|		New York	Academic	1980	Ehrenreich Solid state physics 1980
+000000630|	Ehrenreich, Henry	Solid state physics	0126077347|		New York	Academic	1979	Ehrenreich Solid state physics 1979
+000000631|	Hass, Georg	Physics of thin films	0125330103|		New York	Academic	1978	Hass Physics films 1978
+000000633|		Oelbuch	|	5. Aufl.	Frankfurt/M	Verl.- u. Wirtschaftsges. d. Elektrizitaetswerke	1974	Oelbuch 1974
+000000636|	Chudnovsky, David	Spectral theory Riemann problem and complete integrability	|		Bures-sur-Yvette	IHES	1979	Chudnovsky Spectral theory Riemann problem complete integrability 1979
+000000639|	Becker, Joseph	Information storage and retrieval	|		New York	Wiley	1963	Becker Information storage retrieval 1963
+000000648|	Davies, Gomer L.	Magnetic tape instrumentation	|		New York	McGraw-Hill	1961	Davies Magnetic instrumentation 1961
+000000649|	Davies, W. D. T.	System identification for self-adaptive control	0471198854|		London	Wiley	1970	Davies System identification self-adaptive control 1970
+000000650|	Davies, W. D. T.	Systemerkennung fuer adaptive Regelungen	3486341014|		Muenchen	Oldenbourg	1973	Davies Systemerkennung adaptive Regelungen 1973
+000000651|	Davis, Sidney A.	Electromechanical components for servomechanisms	|		New York	McGraw-Hill	1961	Davis Electromechanical components servomechanisms 1961
+000000661|	Del Toro, Vincent	Electromechanical devices for energy conversion and control systems	|		Englewood Cliffs	Prentice-Hall	1968	Del Toro Electromechanical devices energy conversion control systems 1968
+000000662|	Delhom, Louis A.	Design and application of transistor switching circuits	0701625330|		New York	McGraw-Hill	1968	Delhom Design application transistor switching circuits 1968
+000000663|	Demmig, Frank	Kernexplosionen und ihre Wirkungen	|		Frankfurt	Fischer	1961	Demmig Kernexplosionen Wirkungen 1961
+000000664|	Denzel, Paul	Grundlagen der Uebertragung elektrischer Energie	|		Berlin	Springer	1966	Denzel Grundlagen Uebertragung elektrischer Energie 1966
+000000665|	Dennis, N. T. M.	Vacuum system design	|		London	Chapman & Hall	1968	Dennis Vacuum system design 1968
+000000666|		The design of physics research laboratories	|		London	Chapman & Hall	1959	design physics research laboratories 1959
+000000668|	Deutsch, Ralph	System analysis techniques	|		Englewood Cliffs	Prentice-Hall	1969	Deutsch System analysis techniques 1969
+000000672|	Diu, Bernard	Gauge theories	|		Strasbourg	Centre Rech. Nucl	1980	Diu Gauge theories 1980
+000000674|	Diels, K.	Leybold Vakuum-Taschenbuch	|	2., ueberarb. u. erw. Aufl.	Berlin	Springer	1962	Diels Leybold Vakuum-Taschenbuch 1962
+000000675|	Dijck, J. G. R. van	Einfuehrung in die Elektronenphysik	|		Hamburg	Philips	1966	Dijck Einfuehrung Elektronenphysik 1966
+000000684|	Hu, Ning	Theoretical particle physics	0442202733|		Peking	Science Pr.	1980	Hu Theoretical particle physics 1980
+000000685|	Hu, Ning	Theoretical particle physics	0442202733|		Peking	Science Pr.	1980	Hu Theoretical particle physics 1980
+000000695|	Ditl, Augustin	Systeme mit modulierter Traegerwelle	|		Leipzig	Geest & Portig	1958	Ditl Systeme modulierter Traegerwelle 1958
+000000698|		Die spanabhebende Bearbeitung von Kupfer und Kupferlegierungen	|		Berlin	DKI	1956	spanabhebende Bearbeitung Kupfer Kupferlegierungen 1956
+000000699|		Kupfer als Werkstoff im Wasserfach	|		Berlin	DKI	1957	Kupfer Werkstoff Wasserfach 1957
+000000700|		Guss aus Kupfer und Kupferlegierungen	|		Berlin	DKI	1959	Kupfer Kupferlegierungen 1959
+000000702|	Doerschel, Birgit	Neutronen-Personendosimetrie	3764310375|		Basel	Birkhaeuser	1979	Doerschel Neutronen-Personendosimetrie 1979
+000000703|	Dokter, F.	Digitale Elektronik in der Messtechnik und Datenverarbeitung	3871452734|		Hamburg	Philips	1970	Dokter Digitale Elektronik Messtechnik Datenverarbeitung 1970
+000000708|	Dress, Gerhard	Die Baustelleneinrichtung	3804113052|		Duesseldorf	Werner	1971	Dress Baustelleneinrichtung 1971
