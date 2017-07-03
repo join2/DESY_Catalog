@@ -28,7 +28,7 @@ Zum bearbeiten:
     - [Deutsche Nationalbibliothek](https://portal.dnb.de/opac.htm)
       - PPN: "Link zu diesem Datensatz"
       - DDC
-    - [Britisch Library](http://explore.bl.uk)
+    - [British Library](http://explore.bl.uk)
       - Dort Tab "Details"
       - UIN (beginnt mit BLL)
       - DDC
